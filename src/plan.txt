@@ -1,0 +1,12 @@
+Web Shop App
+
+Dependencies:
+    - axios
+    - redux (state management) (redux,react-redux)
+    - react router dom
+
+İş Sırası:
+    - global axios file created for api management
+    - redux there created 
+    - Router three cretaed
+    - UI management: booststarp added
