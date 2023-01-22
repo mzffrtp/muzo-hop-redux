@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import axios from "axios";
 
 import ProductComponent from "./ProductComponent";
+
 import { setProducts } from "../redux/actions/productActions";
 
 import { useSelector, useDispatch } from "react-redux";
@@ -28,7 +29,8 @@ const ProductListing = () => {
     console.log(products);
 
     return (
-        <div className="container">
+        <div className="row row-cols-2 row-cols-md-4 g-4">
+            
             <ProductComponent />
         </div>
     );

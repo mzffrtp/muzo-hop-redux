@@ -17,8 +17,6 @@ function App() {
         <Route path="/" element={<HomePage />}/>
         <Route path="/productlisting" element={<ProductListing />}/>
         <Route path="/product/:productId" element={<ProductDetails />}/>
-
-
       </Routes>
       </BrowserRouter>
       
