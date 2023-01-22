@@ -13,7 +13,7 @@
     - UI management: booststarp added, components and pages styled.
  
  ### Description:
-    - User can see products on sale at the home with prodcut title, price and category.
+    - User can see products on sale at the home page with product title, price and category.
     - User can also acces more product details by clicking on each item.
     
 #### Enjoy screen gif
